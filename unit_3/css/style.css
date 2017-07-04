@@ -1,0 +1,26 @@
+header {
+	margin-left: auto;
+	margin-right: auto;
+	border-color: black;
+	border-width: 1px;
+	border-style: solid;
+	background-image: url('../images/background.jpg');
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: auto;
+}
+
+h1 {
+	text-align: left;
+	border: black;
+	border-width: 1px;
+	border-style: solid;
+}
+
+#slogan {
+	text-align: center;
+}
+
+p a:hover {
+ 	color: white;
+}
